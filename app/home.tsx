@@ -1,4 +1,4 @@
-import type { Route } from "./routes/+types/home";
+import type { Route } from "./+types/home";
 import Game from "./board";
 
 export function meta({}: Route.MetaArgs) {
